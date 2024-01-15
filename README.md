@@ -89,10 +89,8 @@ To execute the `/send_sms` endpoint every two hours from Monday to Friday betwee
 - **Debugging**: Utilize logs and debugging tools to trace any issues in the application.
 
 ## License
-[License details]
+ MIT License
 
-## Contact
-[Your contact information]
 
 ---
 
