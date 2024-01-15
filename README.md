@@ -2,7 +2,7 @@
 # CYSA+ Question SMS Application
 
 ## Project Overview
-This Flask application integrates with the OpenAI API to generate CYSA+ multiple-choice questions and send them via SMS using the Vonage API. Users can respond to the SMS with their answers, and the application validates these responses using OpenAI and sends back a confirmation SMS indicating whether the response was correct or incorrect. Open-AI API does come witha cost it may be a few cents but do want to mention that, Vonage API has 
+This Flask application integrates with the OpenAI API to generate CYSA+ multiple-choice questions and send them via SMS using the Vonage API. Users can respond to the SMS with their answers, and the application validates these responses using OpenAI and sends back a confirmation SMS indicating whether the response was correct or incorrect. Open-AI API does come witha cost it may be a few cents but do want to mention that, Vonage API has a free trial mode.
 
 ## Technologies Used
 - **Python**: The primary programming language used for the backend.
